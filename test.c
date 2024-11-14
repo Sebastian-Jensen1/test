@@ -14,6 +14,7 @@ int main(void)
    printf("\nArea = PI * radius * radius\n");
    printf("     = %.2f * %.2f * %.2f\n", PI, radius, radius);
    printf("     = %.5f\n", PI * radius * radius );
+   printf("hej");
 
    return 0;
 
